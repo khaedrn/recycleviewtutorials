@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TraditionalFood</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+</resources>
