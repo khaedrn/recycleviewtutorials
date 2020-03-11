@@ -1,5 +1,9 @@
 package com.amikomdeveloper.traditionalfood;
 
+import android.graphics.Bitmap;
+import android.os.Parcel;
+import android.os.Parcelable;
+
 public class Food {
     private String name;
     private String detail;
